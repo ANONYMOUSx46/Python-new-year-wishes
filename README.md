@@ -5,7 +5,7 @@
 Just my small way of wishing a Happy New Year to my fellow 'coders'🎉🎉.
 
 1) The GUI based one, works with tkinter gui and a few other python dependensies. This one is, as i will admit funny and in some way ridiculous as I made it out of boredom😂.
-   Before running the code make sure that you have the Python and the Python dependencies, pygame and pillow installed on your machine. If you don't run these two commands for the dependencies:
+   Before running the code make sure that you have Python and the Python dependencies, pygame and pillow installed on your machine. If you don't run these two commands for the dependencies:
    <pre>
     python install pygame
     pyhton install pillow
